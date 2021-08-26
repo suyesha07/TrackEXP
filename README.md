@@ -1,5 +1,5 @@
-# expense-tracker
-Expenses Tracker 
+# TrackEXP
+TrackEXP
 
 
 
